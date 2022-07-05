@@ -6,14 +6,21 @@
 
 # 기술
 
+> Python 3.9.12
+
 > 데이터 분석</br>
-> Python - KoNLPy의 Okt
+> Python - KoNLPy 0.6.0의 Okt
 
 > 모델링</br>
-> Python - Pydub, Pyaudio, Tacotron1
+> Python - Pydub 0.25.1</br>
+>          Pyaudio 0.2.11</br>
+>          Tacotron1
 
 > 개발</br>
-> Flutter, Django
+> Flutter 3.0.1</br>
+> Dart 2.17.1</br>
+> Django 4.0.5</br>
+
 
 </br>
 
