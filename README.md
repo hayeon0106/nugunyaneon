@@ -8,13 +8,19 @@
 
 > Python 3.9.12
 
+</br>
+
 > 데이터 분석</br>
 > Python - KoNLPy 0.6.0의 Okt
+
+</br>
 
 > 모델링</br>
 > Python - Pydub 0.25.1</br>
 >          Pyaudio 0.2.11</br>
 >          Tacotron1
+
+</br>
 
 > 개발</br>
 > Flutter 3.0.1</br>
