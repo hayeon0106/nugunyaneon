@@ -53,3 +53,9 @@
 <p align="center">
  <img src = "https://user-images.githubusercontent.com/84331957/176482612-10574190-819c-46ef-abdb-ac2bf85e9489.png", width="700"/>
 </p>
+
+
+![image](https://user-images.githubusercontent.com/84331957/178653224-8c1a8089-7179-428c-a78c-906c0d6d9918.png)
+![image](https://user-images.githubusercontent.com/84331957/178653263-7c318920-5d20-48d9-b31c-8484aeda15f4.png)
+![image](https://user-images.githubusercontent.com/84331957/178653267-71464912-ad9e-4a45-a9c7-d1a5b29a556e.png)
+![image](https://user-images.githubusercontent.com/84331957/178653269-e5b47657-de3c-4aeb-bc85-3921b9d91476.png)
